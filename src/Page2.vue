@@ -80,10 +80,21 @@
            lng: position.coords.longitude
          };
        });
+       if (this.center) {
+         const marker = {
+           lat: this.center.lat,
+           lng: this.center.lng
+         };
+         this.markers.push({ position: marker });
+         this.center = marker;
+         this.currentPlace = null;
+       }
      }
     },
     props: ['pageStack'],
     mounted(){
+      this.center.lat = this.$store.state.lat;
+      this.center.lng = this.$store.state.long;
       this.geolocate();
     },
     components: { customToolbar }

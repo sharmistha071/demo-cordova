@@ -30,7 +30,6 @@
       },
       openGPS() {
         let onSuccess = (position) => {
-          console.log('hello');
           this.deviceLocation.lat = position.coords.latitude;
           this.deviceLocation.long = position.coords.longitude;
           this.$store.commit('setDeviceLocation', this.deviceLocation);
