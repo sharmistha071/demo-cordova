@@ -1,0 +1,10 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "monacaapp",
+  "short_name": "monacaapp",
+  "version": "com.example.helloworld",
+  "icons": [],
+  "orientation": "any",
+  "start_url": "index.html"
+}

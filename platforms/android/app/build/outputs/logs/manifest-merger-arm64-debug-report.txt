@@ -1,0 +1,264 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [:tbxml-android:] /home/shormy/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/c280816aec05322889cf40596f7ff9f5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/a6bc52e118380257eef29e4259fbb2fe/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/7b58291ce9a9393be39d8e4be7f84bfe/AndroidManifest.xml:2:1-9:12
+MERGED from [org.xwalk:xwalk_core_library:23.53.589.4] /home/shormy/.gradle/caches/transforms-1/files-1.1/xwalk_core_library-23.53.589.4.aar/d3dc820bcd6bda70a14691b08348f317/AndroidManifest.xml:1:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/750582d7ab0369e8e94703b2a8c4aa3e/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/e8616539332f0b83794ef6a3145a4aa3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/f91483fb28c9cb6c1d53017c0597bf5e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dc0e663db0f30a5a21f30143d12b6a03/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/a1646957579a41f797e86798379bb7e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/b6ae612f0b78ccd7760cafee092f79af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/d640ceedce8b54edada3c33ee7173af1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/8dc003920c3ae791201f2822ee5c87e7/AndroidManifest.xml:17:1-22:12
+MERGED from [:CordovaLib] /home/shormy/monacaapp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/bd36b2d9e0f379e7e0f999be0a0e8ee0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/ce36acd1e42d7f2e84f0ab0392cd0815/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/60c95aeb69a8f8d2656bd86c014ded61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/6cef19194dfb6e8df05711f90252980f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/feb000a1ea03dc5f5c3c68f12f534427/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/002cb6ef78f0d12cc8266ed514c59bf9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/157038774b36c90c5f05fe40d60c07bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/0dbf4242edef03b39492ae596f48bb27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/3a92e355b852c5b57dd3f8bea07a907c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/65c8407f4d06627d328d83ca40da3ae6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/c59b06285ed4c8c3ac8e1b61a09041b9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bc8dbdb63a313a6c1e8422a1cf5deb24/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/935f1eb7ca3f11c23bc0a7e405dfc1a4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e011c5f03e556689003ca2f28f2c60be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/f791f496a3891a6238fd45b42ec940c5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/8081d2bb3106940a64e3e639bba671b3/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/4e90c6e76b2cc2cb2c69ce8e9e73b4fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/fe12cb543718bb35aa895492ec5ceca0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/3b3f0cb27aa6938a7219db4f11daf975/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f31a5e26914b56d0a9ca720b70d2bb18/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:2:102-134
+		INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:2:74-101
+		INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:2:135-193
+	android:versionCode
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:2:46-73
+		INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/a6bc52e118380257eef29e4259fbb2fe/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/a6bc52e118380257eef29e4259fbb2fe/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:5:5-14:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/a6bc52e118380257eef29e4259fbb2fe/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/a6bc52e118380257eef29e4259fbb2fe/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/7b58291ce9a9393be39d8e4be7f84bfe/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/7b58291ce9a9393be39d8e4be7f84bfe/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/750582d7ab0369e8e94703b2a8c4aa3e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/750582d7ab0369e8e94703b2a8c4aa3e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/e8616539332f0b83794ef6a3145a4aa3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/e8616539332f0b83794ef6a3145a4aa3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/f91483fb28c9cb6c1d53017c0597bf5e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/f91483fb28c9cb6c1d53017c0597bf5e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dc0e663db0f30a5a21f30143d12b6a03/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dc0e663db0f30a5a21f30143d12b6a03/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/f791f496a3891a6238fd45b42ec940c5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/f791f496a3891a6238fd45b42ec940c5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/8081d2bb3106940a64e3e639bba671b3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/8081d2bb3106940a64e3e639bba671b3/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/f791f496a3891a6238fd45b42ec940c5/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
+activity#com.example.helloworld.MainActivity
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:12:9-106
+	android:value
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:12:66-103
+	android:name
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:12:20-65
+meta-data#com.google.android.gms.version
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:13:9-122
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dc0e663db0f30a5a21f30143d12b6a03/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dc0e663db0f30a5a21f30143d12b6a03/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:13:66-119
+	android:name
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:13:20-65
+uses-sdk
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:15:5-74
+INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:15:5-74
+MERGED from [:tbxml-android:] /home/shormy/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/c280816aec05322889cf40596f7ff9f5/AndroidManifest.xml:7:5-9:41
+MERGED from [:tbxml-android:] /home/shormy/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/c280816aec05322889cf40596f7ff9f5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/a6bc52e118380257eef29e4259fbb2fe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/a6bc52e118380257eef29e4259fbb2fe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/7b58291ce9a9393be39d8e4be7f84bfe/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/7b58291ce9a9393be39d8e4be7f84bfe/AndroidManifest.xml:5:5-44
+MERGED from [org.xwalk:xwalk_core_library:23.53.589.4] /home/shormy/.gradle/caches/transforms-1/files-1.1/xwalk_core_library-23.53.589.4.aar/d3dc820bcd6bda70a14691b08348f317/AndroidManifest.xml:6:5-8:41
+MERGED from [org.xwalk:xwalk_core_library:23.53.589.4] /home/shormy/.gradle/caches/transforms-1/files-1.1/xwalk_core_library-23.53.589.4.aar/d3dc820bcd6bda70a14691b08348f317/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/750582d7ab0369e8e94703b2a8c4aa3e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/750582d7ab0369e8e94703b2a8c4aa3e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/e8616539332f0b83794ef6a3145a4aa3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/e8616539332f0b83794ef6a3145a4aa3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/f91483fb28c9cb6c1d53017c0597bf5e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/f91483fb28c9cb6c1d53017c0597bf5e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dc0e663db0f30a5a21f30143d12b6a03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/dc0e663db0f30a5a21f30143d12b6a03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/a1646957579a41f797e86798379bb7e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/a1646957579a41f797e86798379bb7e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/b6ae612f0b78ccd7760cafee092f79af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/b6ae612f0b78ccd7760cafee092f79af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/d640ceedce8b54edada3c33ee7173af1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/d640ceedce8b54edada3c33ee7173af1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/8dc003920c3ae791201f2822ee5c87e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/8dc003920c3ae791201f2822ee5c87e7/AndroidManifest.xml:20:5-44
+MERGED from [:CordovaLib] /home/shormy/monacaapp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /home/shormy/monacaapp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/bd36b2d9e0f379e7e0f999be0a0e8ee0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/bd36b2d9e0f379e7e0f999be0a0e8ee0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/ce36acd1e42d7f2e84f0ab0392cd0815/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/ce36acd1e42d7f2e84f0ab0392cd0815/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/60c95aeb69a8f8d2656bd86c014ded61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/60c95aeb69a8f8d2656bd86c014ded61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/6cef19194dfb6e8df05711f90252980f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/6cef19194dfb6e8df05711f90252980f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/feb000a1ea03dc5f5c3c68f12f534427/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/feb000a1ea03dc5f5c3c68f12f534427/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/002cb6ef78f0d12cc8266ed514c59bf9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/002cb6ef78f0d12cc8266ed514c59bf9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/157038774b36c90c5f05fe40d60c07bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/157038774b36c90c5f05fe40d60c07bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/0dbf4242edef03b39492ae596f48bb27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/0dbf4242edef03b39492ae596f48bb27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/3a92e355b852c5b57dd3f8bea07a907c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/3a92e355b852c5b57dd3f8bea07a907c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/65c8407f4d06627d328d83ca40da3ae6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/65c8407f4d06627d328d83ca40da3ae6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/c59b06285ed4c8c3ac8e1b61a09041b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/c59b06285ed4c8c3ac8e1b61a09041b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bc8dbdb63a313a6c1e8422a1cf5deb24/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bc8dbdb63a313a6c1e8422a1cf5deb24/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/935f1eb7ca3f11c23bc0a7e405dfc1a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/935f1eb7ca3f11c23bc0a7e405dfc1a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e011c5f03e556689003ca2f28f2c60be/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e011c5f03e556689003ca2f28f2c60be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/f791f496a3891a6238fd45b42ec940c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/f791f496a3891a6238fd45b42ec940c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/8081d2bb3106940a64e3e639bba671b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/8081d2bb3106940a64e3e639bba671b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/4e90c6e76b2cc2cb2c69ce8e9e73b4fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/4e90c6e76b2cc2cb2c69ce8e9e73b4fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/fe12cb543718bb35aa895492ec5ceca0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/fe12cb543718bb35aa895492ec5ceca0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/3b3f0cb27aa6938a7219db4f11daf975/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /home/shormy/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/3b3f0cb27aa6938a7219db4f11daf975/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f31a5e26914b56d0a9ca720b70d2bb18/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f31a5e26914b56d0a9ca720b70d2bb18/AndroidManifest.xml:20:5-44
+INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:15:5-74
+	android:targetSdkVersion
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:15:42-71
+	android:minSdkVersion
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:15:15-41
+		INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:16:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/a6bc52e118380257eef29e4259fbb2fe/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/a6bc52e118380257eef29e4259fbb2fe/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:18:22-76
+uses-feature#0x00020000
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/a6bc52e118380257eef29e4259fbb2fe/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/a6bc52e118380257eef29e4259fbb2fe/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:19:19-51
+	android:required
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:19:52-75
+uses-feature#android.hardware.location
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:20:5-62
+	android:name
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:20:19-59
+uses-feature#android.hardware.location.gps
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:21:19-63
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from /home/shormy/monacaapp/platforms/android/app/src/main/AndroidManifest.xml:22:22-73
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/750582d7ab0369e8e94703b2a8c4aa3e/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/750582d7ab0369e8e94703b2a8c4aa3e/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/750582d7ab0369e8e94703b2a8c4aa3e/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/shormy/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/750582d7ab0369e8e94703b2a8c4aa3e/AndroidManifest.xml:24:13-79
